@@ -1,1 +1,1 @@
-# cocktails-api
+# Cocktails API
